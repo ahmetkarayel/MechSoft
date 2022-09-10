@@ -2,3 +2,7 @@
 
 ### Proje Tanımı
 * Müşteriler ile yapılacak toplantıların kaydedilebileceği, güncellenebileceği ve silinebileceği bir tek sayfa uygulaması.
+
+---
+
+* Projenin backend tarafını "Flask" ve "Postgresql" kullanarak gerçekleştirdim.
