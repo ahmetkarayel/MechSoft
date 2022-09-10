@@ -1,4 +1,4 @@
-<h1 align="center">MechSoft</h1>
+
 
 <p align="center">
 <a href="https://www.mechsoft.com.tr/">
