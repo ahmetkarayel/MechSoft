@@ -21,7 +21,7 @@ Bu repository içerisinde algoritma sorularını ve "Meeting Organizer" projesin
 * Müşteriler ile yapılacak toplantıların kaydedilebileceği, güncellenebileceği ve silinebileceği bir tek sayfa uygulaması.
 * Temel ihtiyaç kullanıcıların toplantılarını kayıt edip, güncelleyip , silebilecekleri küçük bir web uygulaması geliştirilmesidir.
 
-### Yapılacaklar
+#### Yapılacaklar
 > * Toplantı Kayıt Formu 
 > * Toplantı Güncelleme Formu
 > * Toplantı Listesi
