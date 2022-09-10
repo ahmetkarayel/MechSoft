@@ -6,6 +6,8 @@
 </a>
 </p>
 
+---
+
 Bu repository içerisinde algoritma sorularını ve "Meeting Organizer" projesini bulabilirsiniz.
 
 ---
