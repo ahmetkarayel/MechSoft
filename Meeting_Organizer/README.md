@@ -6,3 +6,7 @@
 ---
 
 * Projenin backend tarafını "Flask" ve "Postgresql" kullanarak gerçekleştirdim.
+
+---
+
+<h3 align="center"> Proje Tanıtım </h3>
