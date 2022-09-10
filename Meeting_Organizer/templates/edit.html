@@ -1,0 +1,31 @@
+{% extends "layout.html" %}
+{% block body %}
+<div class="row">
+    <div class="col-md-4 offset-md-4">
+        <div class="card card-body">
+        <form action="/update/{{meeting.id}}" method="POST">
+            <div class="form-group">
+                <input type="text" class="form-control" name="title" value="{{meeting.title}}">
+            </div>
+            <div class="form-group">
+                <input type="date" class="form-control" name="date" value="{{meeting.tarih}}">
+            </div>
+            <div class="form-group">
+                <input type="time" class="form-control" name="start" value="{{meeting.ilksaat}}">
+            </div>
+            <div class="form-group">
+                <input type="time" class="form-control" name="end" value="{{meeting.sonsaat}}">
+            </div>
+            <div class="form-group">
+                <input type="text" class="form-control" name="members" value="{{meeting.members}}">
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary btn-block">
+                Güncelle
+                </button>
+            </div>
+        </form>
+        </div>
+    </div>
+</div>
+{% endblock %}
