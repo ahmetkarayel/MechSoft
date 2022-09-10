@@ -8,4 +8,5 @@
 
 Bu repository içerisinde algoritma sorularını ve "Meeting Organizer" projesini bulabilirsiniz.
 
-## Algoritma Soruları;
+## Algoritma Soruları
+* **size_multiply_with_occurence:** Verilen bir string içerisindeki olası tüm substringlerden ana metin içerisindeki maximum <"string uzunluğu * frekans"> skorunu veren substringi elde etmek. 
