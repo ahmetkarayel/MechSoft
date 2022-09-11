@@ -20,8 +20,28 @@
 * "Toplantılar" için gerekli alanlardan oluşan SQL tablosunu oluşturuyorum.
 >> ![image](https://user-images.githubusercontent.com/42919340/189505917-b567c41c-7a98-4664-89ea-5feb46a9b9af.png)
 
-* Projenin görüntü bu şekilde;
+* Projenin görüntüsü bu şekilde;
 >> ![AnaSayfa_1](https://user-images.githubusercontent.com/42919340/189505980-a9eb07bb-8530-442c-bbbd-951322829397.png)
 
-Sol tarafta toplantı ekleme formu, sağ tarafta ise eklenen toplantıların listesi ve mevcut toplantılar için "Düzenle" ve "Sil" özellikleri aktif.
+Sol tarafta toplantı ekleme formu, sağ tarafta ise eklenen toplantıların listesi ve mevcut toplantılar için "Düzenle" ve "Sil" özellikleri aktif. 
+
+* Bir toplantı eklemek istersek;
+>> ![ToplantıEkleme](https://user-images.githubusercontent.com/42919340/189506034-68d217ea-51b6-4de2-bcbd-239d4f6d8916.png)
+
+"Toplantı Kayıt Formu" üzerinden toplantı detaylarını kaydediyorum.
+
+>> ![ToplantıEklendi](https://user-images.githubusercontent.com/42919340/189506059-31c891ed-7f3e-4361-8b9a-7c99c88a784f.png)
+
+Yeni toplantımız başarılı bir şekilde eklendi.
+
+* Eklediğimiz bir toplantının bilgilerini "Düzenle" seçeneği ile değiştirmek istersek;
+>>> ![ToplantıDüzenleme](https://user-images.githubusercontent.com/42919340/189506149-88a4f99a-3311-4446-8787-25854fc0c5d7.png)
+>>> ![ToplantıDüzenleme_2](https://user-images.githubusercontent.com/42919340/189506158-1d7f694e-691e-463a-bd3a-f1594ee3f223.png)
+>>> ![ToplantıDüzenlendi](https://user-images.githubusercontent.com/42919340/189506159-fff918f8-a1b7-471b-9ebe-fc7394bdb802.png)
+
+
+
+
+
+
 
