@@ -41,7 +41,7 @@ Yeni toplantımız başarılı bir şekilde eklendi.
 
 "Veri Bilimi" konulu toplantıyı "Python ile Backend" konulu olarak ileri bir tarihe erteledik. 
 
-Yaptığımız tüm değişiklikler "postgresql" üzerinde de gerçekleştiriyor. Güncellediğimiz toplantıya bakalım;
+Yaptığımız tüm değişiklikler "postgresql" üzerinde de gerçekleşiyor. Güncellediğimiz toplantıya bakalım;
 >> ![pg_ToplantıEklendi](https://user-images.githubusercontent.com/42919340/189506206-a8a8209d-ac71-4ee2-b79b-c4399c2b7ed9.png)
 
 * İlgili toplantıyı "Sil" butonu ile silmek istersek;
