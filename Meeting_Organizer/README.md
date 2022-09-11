@@ -39,6 +39,18 @@ Yeni toplantımız başarılı bir şekilde eklendi.
 >>> ![ToplantıDüzenleme_2](https://user-images.githubusercontent.com/42919340/189506158-1d7f694e-691e-463a-bd3a-f1594ee3f223.png)
 >>> ![ToplantıDüzenlendi](https://user-images.githubusercontent.com/42919340/189506159-fff918f8-a1b7-471b-9ebe-fc7394bdb802.png)
 
+"Veri Bilimi" konulu toplantıyı "Python ile Backend" konulu olarak ve ileri bir tarihe erteledik. 
+
+Yaptığımız tüm değişiklikler "postgresql" üzerinde de gerçekleştiriyor. Güncellediğimiz toplantıya bakalım;
+>> ![pg_ToplantıEklendi](https://user-images.githubusercontent.com/42919340/189506206-a8a8209d-ac71-4ee2-b79b-c4399c2b7ed9.png)
+
+* İlgili toplantıyı "Sil" butonu ile silmek istersek;
+>>  ![ToplantıSilme](https://user-images.githubusercontent.com/42919340/189506226-d58fa0a9-e6e0-45ee-838f-e613ee9ec9fc.png)
+>> ![ToplantıSilindi](https://user-images.githubusercontent.com/42919340/189506229-75026407-b2e2-4940-aaf5-59121b3d5978.png)
+
+Toplantımızı başarılı bir şekilde sildik.
+
+
 
 
 
