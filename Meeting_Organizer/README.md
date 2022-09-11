@@ -16,3 +16,6 @@
 ---
 
 <h2 align="center"> Proje Tanıtımı </h2>
+
+* "Toplantılar" için gerekli alanlardan oluşan SQL tablosu;
+>> ![Aşama1](Meeting_Organizer/projeTanıtım/Postgresql_Tablo.png)
